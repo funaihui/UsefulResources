@@ -14,4 +14,4 @@
 
 获取方法，扫描下方二维码回复“算法”
 
-![爱码者说](/Users/funaihui/Pictures/爱码者说.jpg)
+![爱码者说](./images/爱码者说.jpg)
